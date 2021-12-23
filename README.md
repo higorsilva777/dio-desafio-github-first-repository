@@ -1,2 +1,2 @@
-# dio-desafio-github-first-repository
+# Project about git and github for digital inovation one
 project challenge git/github
